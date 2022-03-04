@@ -1,0 +1,121 @@
+Region
+Availability Zones(AZs)
+Data Centers
+
+PAAS - platform as a service
+IAAS - Infra 
+SAAS - Software
+
+Resource
+Resource group - demo
+
+SLA - 99.999999%
+
+Services Offered in Azure
+
+Pricing Calculator
+
+Ways of creating resources:
+
+Portal - GUI
+CLI - linux, mac, windows
+Powershell  - windows
+
+Resources:
+1. Storage Account
+kaninifiles
+LRS/GRS/ ZRS/ GZRS
+
+Container
+Blob
+
+Storage Tiers- Hot, Cool, Archive
+Access Levels - Private, Blob, Container
+
+Generate SAS(Shared Access Signature)
+https://kaninifiles.blob.core.windows.net/videos/CITools%20(2).png?sp=r&st=2022-03-02T11:28:10Z&se=2022-03-02T19:28:10Z&spr=https&sv=2020-08-04&sr=b&sig=LN2e80ldfAeJjaYm8khgNRsjdxmL61T%2FGRZuo7RXxaI%3D
+
+Acquire Lease - Break Lease
+
+Access Keys - Show Keys - connection string - used in C# code
+
+Azure Devops:
+
+dev.azure.com
+Created organization
+Created project - private - Methedology - Agile
+
+Import Repository - from github
+Build pipeline - generated
+
+Azure Boards
+Epic
+User Story
+
+Project settings - Add Team members
+
+Lab: Create Azure Boards for any case study
+
+Sprints
+Parent and child task
+
+Logic Apps:
+
+Workflow automation
+1. Trigger - when 
+2. Action
+
+
+{
+    "cid":3247,
+    "cname":"Vijin",
+    "billamt":3434.54,
+    "dop":"4/3/2020",
+    "mailid":"vijinalexander1999@gmail.com",
+    "ccid": "rajadurai2472000@gmail.com",
+    "desc":"Reminer for the Payment"
+}
+
+
+Messaging services of Azure
+
+1. Service Bus: -pub sub model
+2. Storage Queue 
+
+Service Bus:
+1. Topic - publisher pushes the data 
+2. Queue
+
+Lab:
+https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/Instructions/Labs/AZ-204_lab_10.md
+
+Web app: Azure Devops
+
+Host the microservice onto the cloud - Deployed as web app
+
+
+Continous Integration - Development
+Continous Delivery
+Continuous Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
