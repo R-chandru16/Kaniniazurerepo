@@ -98,6 +98,13 @@ Continous Integration - Development
 Continous Delivery
 Continuous Deployment
 
+git commands
+1. git init - initialize a local repo in the folder
+2. git status - list of untracked/tracked files
+3. git add . - to add all the untracked files to staging area
+4. git commit -m "first commit" - commit files to local repo(git) (master)
+5. git remote add origin <url>- remote repo (github) (origin)
+6. git push origin master
 
 
 
